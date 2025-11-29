@@ -1,0 +1,10 @@
+{
+  "name": "Excel Multi-Sheet Website",
+  "short_name": "Excel Multi-Sheet Website",
+  "description": "Generated from MCP Test.xlsx",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "icons": []
+}
